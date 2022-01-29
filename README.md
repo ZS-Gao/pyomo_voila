@@ -1,6 +1,6 @@
 # pyomo_voila
 
-| Voilà | JupyterLab |
+| JupyterLab | Voilà |
 | :-----------------------: | :---------------------: |
 |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/pyomo_voila/HEAD) | [![voila-binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/pyomo_voila/HEAD?labpath=voila%2Frender%2Fwl_csv.ipynb) |
 
