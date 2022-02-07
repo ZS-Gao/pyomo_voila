@@ -7,6 +7,18 @@
 My playgroud for pyomo and voila
 
 
+## Setup a local run environment
+
+Run the bash file: `setup_conda_env.sh`
+
+Or the following:
+
+```
+conda env create -f environment.yml
+```
+
+[Managing environments — conda 4.11.0.post37+c75b4b561 documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
 ## Reference
 
 [binder-examples/voila: Using Voilà with matplotlib example](https://github.com/binder-examples/voila)
