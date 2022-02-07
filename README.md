@@ -2,7 +2,7 @@
 
 | JupyterLab | Voilà |
 | :-----------------------: | :---------------------: |
-|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/pyomo_voila/HEAD) |[![Volia-Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/pyomo_voila/HEAD?urlpath=voila%2Frender%2Fwl_csv.ipynb) |
+|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/pyomo_voila/HEAD) |[![Volia-Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/pyomo_voila/HEAD?urlpath=voila%2Frender%2Fwl_csv_ui.ipynb) |
 
 My playgroud for pyomo and voila
 
